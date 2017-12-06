@@ -1,0 +1,15 @@
+
+.sidebarContent{
+	background-color: cyan;
+	margin-bottom: 10px;
+	min-height: 150px;
+	text-align:center;
+	font-size: large; 
+}
+.mainContent{
+	background-color: yellow;
+	margin-bottom: 10px;
+	min-height: 310px;
+	text-align:center;
+	font-size: large; 
+}
